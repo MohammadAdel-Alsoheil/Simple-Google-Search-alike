@@ -1,0 +1,107 @@
+*{
+    font-family: Arial;
+}
+
+.linking{
+    font-family: Arial;
+    color: black;
+    margin: 5px;
+    text-decoration: none;
+
+}
+
+.linking:hover{
+    color: rgb(24, 107, 151);
+}
+
+.right-links{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+#Google{
+    letter-spacing: -4px;
+    margin-top: -10px;
+}
+
+hr{
+    margin-top: 40px;
+    color: #888;
+}
+
+h3{
+    color: #DB4437;
+    margin-top: 50px;
+    font-size: 25px;
+}
+
+h4{
+    font-weight: lighter;
+    font-size: 20px;
+}
+
+.words{
+    margin-top: 40px;
+    margin-bottom: 20px; 
+}
+
+.Exact-word{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.Any-word{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.None-word{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.text_Feild{
+    
+    padding-left: 15px;
+    font-size: 16px;
+    border-radius: 3px;
+    width: 33%;
+    border-color: #888;
+    vertical-align: top;
+    margin-right: 20px;
+}
+
+.Button{
+
+    position: relative;
+    background-color: #4285F4;
+    color: white;
+    cursor: pointer;
+    height: 30px;
+    margin-left: 43%;
+    margin-top: 25px;
+
+}
+
+@media screen and (max-width:1050px){
+    .desc{
+        display: none;
+    }
+}
+
+#F1{
+    margin-left: 116px;
+}
+
+#F2{
+    margin-left: 40px;
+}
+
+#F3{
+    margin-left: 88px;
+}
+#F4{
+    margin-left: 77px;
+}
+

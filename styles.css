@@ -1,0 +1,72 @@
+
+
+.linking{
+    font-family: Arial;
+    color: black;
+    margin: 5px;
+    text-decoration: none;
+
+}
+
+.linking:hover{
+    color: rgb(24, 107, 151);
+}
+
+.right-links{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+.container {
+    text-align: center;
+    margin-top: 160px;
+    
+}
+
+#Google{
+
+    font-size: 100px;
+    font-weight: bold;
+    margin-bottom: 10px; 
+    text-align: center;
+    letter-spacing: -12px;
+
+}
+
+
+
+#text_Feild {
+    display: block;
+    margin:  20px auto 0 auto;
+    padding-left: 40px;
+    text-align: left;
+    font-size: 20px;
+    font-family: Arial;
+    width: 500px;
+    height: 33px;
+    border-radius: 25px;
+    background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+
+
+.Button {
+    display: block;
+    margin: 12px auto; 
+    text-align: center;
+    border-radius: 2px;
+    height: 30px;
+
+}
+
+.Button:hover{
+    border-color: rgb(24, 107, 151);
+    cursor: pointer;
+}
+
+
+.search-bar{
+    border: none;
+    padding: 0;
+}
+
